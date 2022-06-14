@@ -25,4 +25,4 @@
 
 ![GHstats](https://github-readme-stats.cercel.app/api?username=TisoOfficiel&show_icons=true)
 
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TisoOfficiel&layout=compact">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TisoOfficiel&layout=compact">
