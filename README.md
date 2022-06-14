@@ -5,7 +5,12 @@
     <h3 align="center">Love Front and Back end and recently learn vuesJs</h3>
     <h3 align="center">I'm french student, I have been learning web development on my own since 2020 in parallel with my computer studies</h3>
 </p>
-
+<h5>I'm learning and make currently :</h5>
+<ul>
+    <li>Techno : Figma</li>
+    <li>Language : VuesJs, React,</li>
+    <li>Project : A bot discord using Api from StreamElements, create a web site like League of Legend for other game </li>
+</ul>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tisooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tisooff" height="30" width="40" /></a>
