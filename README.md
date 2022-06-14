@@ -2,7 +2,7 @@
 
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=000033&center=true&vCenter=true&lines=student;passionnate+web+developpement;vuejs+for+life;">
-    <h3 align="center">Love Frontand Back end and recently learn vuesJs</h3>
+    <h3 align="center">Love Front and Back end and recently learn vuesJs</h3>
     <h3 align="center">I'm french student, I have been learning web development on my own since 2020 in parallel with my computer studies</h3>
 </p>
 
