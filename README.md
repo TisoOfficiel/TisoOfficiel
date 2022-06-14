@@ -9,7 +9,7 @@
 <ul>
     <li>Techno : Figma</li>
     <li>Language Front : VuesJs, React,</li>
-    <li>Language Back (soon): Symphony /li>
+    <li>Language Back (soon): Symphony </li>
     <li>Project : A bot discord using Api from StreamElements, create a web site like League of Legend for other game </li>
 </ul>
 <h3 align="left">🌐 Connect with me:</h3>
