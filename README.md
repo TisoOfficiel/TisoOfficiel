@@ -5,7 +5,7 @@
     <h3 align="center">Love Front and Back end and recently learn vuesJs</h3>
     <h3 align="center">I'm french student, I have been learning web development on my own since 2020 in parallel with my computer studies</h3>
 </p>
-<h5>I'm learning and make currently :</h5>
+<h5>What i'm learning and make currently :</h5>
 <ul>
     <li>Techno : Figma</li>
     <li>Language : VuesJs, React,</li>
