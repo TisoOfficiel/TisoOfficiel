@@ -8,7 +8,7 @@
 <h5>What i'm learning and make currently :</h5>
 <ul>
     <li>Techno : Figma</li>
-    <li>Language Front : VuesJs, React,</li>
+    <li>Language Front : VuesJs, soon React,</li>
     <li>Language Back (soon): Symphony </li>
     <li>Project : A bot discord using Api from StreamElements, create a web site like League of Legend for other game </li>
 </ul>
