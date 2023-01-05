@@ -7,10 +7,10 @@
 </p>
 <h5>What i'm learning and make currently :</h5>
 <ul>
-    <li>Techno : Figma</li>
-    <li>Language Front : VuesJs, soon React,</li>
-    <li>Language Back (soon): Symphony </li>
-    <li>Project : A bot discord using Api from StreamElements, create a web site like League of Legend for other game </li>
+    <li>CMS : Wordpress</li>
+    <li>Front : React</li>
+    <li>Back (soon): Symphony,Django </li>
+    <li>Project : Create my own website </li>
 </ul>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
