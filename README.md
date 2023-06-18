@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/tisooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tisooff" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/romain-lhuillier-8ab47319b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain lhuillier" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/romain-lhuillier-8ab47319b/](https://synhive.fr/)" target="blank">Synhive</a>
+<a href="https://synhive.fr" target="blank">Synhive</a>
 </p>
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
