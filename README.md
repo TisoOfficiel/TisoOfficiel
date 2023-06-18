@@ -7,10 +7,10 @@
 </p>
 <h5>What i'm learning and make currently :</h5>
 <ul>
-    <li>CMS : Wordpress</li>
+    <li>CMS : Directus</li>
     <li>Front : React</li>
     <li>Back (soon): Symphony,Django </li>
-    <li>Project : Create my own website </li>
+    <li>Project : Create my mobile application </li>
 </ul>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
